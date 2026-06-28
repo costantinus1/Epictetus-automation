@@ -1,8 +1,8 @@
-<div align="center">
+
 
 # Epictetus AI Automations
 <div align="center">
-  <img src="img01.png" alt="Epictetus Logo" width="150"/>
+  <img src="img01.png" alt="Epictetus Logo" width="100"/>
 </div>
 
 
@@ -24,6 +24,6 @@ Real-time: Instant notifications via Telegram.
 
 If you are looking for custom automation solutions, reach out via my Contra profile.
 
-<img width="880" height="948" alt="screenshot_20260629_003521" src="https://github.com/user-attachments/assets/b0d22cfe-bbcb-4821-9042-7c4c68da853e" />
+<img width="400" height="948" alt="screenshot_20260629_003521" src="https://github.com/user-attachments/assets/b0d22cfe-bbcb-4821-9042-7c4c68da853e" />
 
 <img width="2064" height="512" alt="IMG_8936" src="https://github.com/user-attachments/assets/87a14f7c-3ef9-4349-85ba-fb1ab89954b3" />
