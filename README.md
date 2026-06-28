@@ -1,7 +1,8 @@
 <div align="center">
 
 # Epictetus AI Automations
-Gemini_Generated_Image_9v7wck9v7wck9v7w (2)
+![Uploading img01.png…]()
+
 
 ### 🤖 Autonomous Workflow Engineering
 </div>
