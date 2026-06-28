@@ -1,7 +1,8 @@
 <div align="center">
 
 # Epictetus AI Automations
-![Uploading img01.png…]()
+<img width="878" height="976" alt="img01" src="https://github.com/user-attachments/assets/0fa601c6-fac7-4d34-8896-aa6a7d3b1e66" />
+
 
 
 ### 🤖 Autonomous Workflow Engineering
