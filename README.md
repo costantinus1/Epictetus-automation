@@ -1,7 +1,12 @@
-Epictetus AI Automations
-Automated AI Proposal Generator
+<div align="center">
 
-This system eliminates the manual effort of freelance bidding. It autonomously monitors job boards, processes requirements, drafts tailored proposals via Gemini, and delivers them directly to your Telegram.
+# Epictetus AI Automations
+![Epictetus Logo](IMG_8936.PNG)
+
+### 🤖 Autonomous Workflow Engineering
+</div>
+
+**Automated AI Proposal Generator.** This system eliminates the manual effort of freelance bidding. It autonomously monitors job boards, processes requirements, drafts tailored proposals via Gemini, and delivers them directly to your Telegram.
 
 Workflow Visualization
 (Εδώ μπορείς να προσθέσεις το screenshot του n8n workflow σου αν το έχεις ανεβάσει και αυτό στο repo)
