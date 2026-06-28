@@ -1,7 +1,9 @@
 <div align="center">
 
 # Epictetus AI Automations
-<img width="878" height="976" alt="img01" src="https://github.com/user-attachments/assets/0fa601c6-fac7-4d34-8896-aa6a7d3b1e66" />
+<div align="center">
+  <img src="img01.png" alt="Epictetus Logo" width="200"/>
+</div>
 
 
 
