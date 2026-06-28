@@ -1,2 +1,16 @@
-# Epictetus-automation
-Autonomous workflow automation engine. Connects business tools, automates data processing, and scales efficiency using n8n and AI. Built for high-volume tasks and optimized infrastructure.
+Epictetus AI Automations
+Automated AI Proposal Generator
+
+This system eliminates the manual effort of freelance bidding. It autonomously monitors job boards, processes requirements, drafts tailored proposals via Gemini, and delivers them directly to your Telegram.
+
+Workflow Visualization
+(Εδώ μπορείς να προσθέσεις το screenshot του n8n workflow σου αν το έχεις ανεβάσει και αυτό στο repo)
+
+Why this system matters
+Efficiency: No more manual drafting.
+
+Precision: AI-tailored proposals for every unique job title.
+
+Real-time: Instant notifications via Telegram.
+
+If you are looking for custom automation solutions, reach out via my Contra profile.
