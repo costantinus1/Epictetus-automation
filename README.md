@@ -12,7 +12,7 @@
 **Automated AI Proposal Generator.** This system eliminates the manual effort of freelance bidding. It autonomously monitors job boards, processes requirements, drafts tailored proposals via Gemini, and delivers them directly to your Telegram.
 
 Workflow Visualization
-(Εδώ μπορείς να προσθέσεις το screenshot του n8n workflow σου αν το έχεις ανεβάσει και αυτό στο repo)
+
 
 Why this system matters
 Efficiency: No more manual drafting.
